@@ -2,7 +2,7 @@
 - 👀 I’m interested in Stochastics Modeling, Data analysis
 - 🌱 I’m currently a PhD student working on Performance analysis of Vehicular Cloud
 - 💞️ I’m looking to collaborate on looking at interesting data together
-- 📫 How to reach me at: https://www.linkedin.com/in/ch%C3%ADnh-tr%E1%BA%A7n-78a46896/
+- 📫 How to reach me at: www.linkedin.com/in/chinhtran2808
 
 <!---
 ChinhTranKaizen/ChinhTranKaizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
