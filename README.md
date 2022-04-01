@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChinhTranKaizen
 - 👀 I’m interested in Stochastics Modeling, Data analysis
 - 🌱 I’m currently a PhD student working on Performance analysis of Vehicular Cloud
-- 💞️ I’m looking to collaborate on looking at interesting data together
+- 💞️ I’m looking to collaborate on finding interesting data patterns together
 - 📫 How to reach me at: www.linkedin.com/in/chinhtran2808
 
 <!---
